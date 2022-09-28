@@ -1,3 +1,3 @@
 Este repositorio contiene el sprint-3
-Requermiento
+Requermientos
 Jypyter Notebook
